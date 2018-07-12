@@ -1,0 +1,23 @@
+.hidden {
+  display: none;
+}
+.player-start-area h2{
+  color: white;
+}
+.dice-size {
+  width: 100px;
+  height: 100px;
+}
+body {
+  background-color: black;
+}
+.border{
+  margin: 20px;
+  padding: 20px;
+}
+.border.yellow {
+  border: 3px solid rgb(249, 253, 5);
+}
+.border.blue {
+  border: 3px solid rgb(60, 5, 189);
+}
